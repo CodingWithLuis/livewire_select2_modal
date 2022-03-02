@@ -1,4 +1,7 @@
 <div>
+
+    <livewire:products.create />
+
     <table class="table">
         <thead>
             <tr>
